@@ -1,2 +1,15 @@
 # computer-networking
-computer-networking
+- OSI stack: https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/ 
+- TCP/IP stack: https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/
+- TLS/SSL:
+  - https://github.com/FernandoMiguel/TLSguide
+  - https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/
+  - https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/
+  - https://www.cloudflare.com/learning/ssl/what-is-ssl/
+  - https://www.udemy.com/course/ssl-complete-guide/?couponCode=LETSLEARNNOW
+  - https://www.udemy.com/course/openssl-cheatsheet/?couponCode=LETSLEARNNOW
+- HTTP
+- Load balancer/Reverse Proxy/DNS:
+  - Direct Server Return
+  - Round Robin
+  - IP Hash
