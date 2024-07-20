@@ -34,3 +34,12 @@ The following steps is used when RSA key exchange algorithm be used (before TLS 
 - Client is ready: The client sends a "finished" message that is encrypted with a session key.
 - Server is ready: The server sends a "finished" message encrypted with a session key.
 - Secure symmetric encryption achieved: The handshake is completed, and communication continues using the session keys.
+
+# Reference
+- https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/
+- https://www.cloudflare.com/learning/ssl/keyless-ssl/
+- https://www.youtube.com/watch?v=P1v6QA0W7Xw
+- https://www.youtube.com/watch?v=mV1h1e83O20
+- https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption
+- https://github.com/FernandoMiguel/TLSguide
+
