@@ -8,7 +8,10 @@
   - https://www.cloudflare.com/learning/ssl/what-is-ssl/
   - https://www.udemy.com/course/ssl-complete-guide/?couponCode=LETSLEARNNOW
   - https://www.udemy.com/course/openssl-cheatsheet/?couponCode=LETSLEARNNOW
-- HTTP
+- TCP vs UDP:
+  - https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/
+  - https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/
+- HTTP: https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/
 - Load balancer/Reverse Proxy/DNS:
   - Direct Server Return
   - Round Robin
