@@ -12,6 +12,7 @@
   - https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/
   - https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/
 - HTTP: https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/
+- DNS over HTTPS: https://www.cloudflare.com/learning/dns/dns-over-tls/
 - Load balancer/Reverse Proxy/DNS:
   - Direct Server Return
   - Round Robin
