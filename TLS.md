@@ -42,4 +42,7 @@ The following steps is used when RSA key exchange algorithm be used (before TLS 
 - https://www.youtube.com/watch?v=mV1h1e83O20
 - https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption
 - https://github.com/FernandoMiguel/TLSguide
+- https://www.youtube.com/watch?v=P1v6QA0W7Xw
+- https://classes.pracnet.net/courses/practical-tls
+- https://www.youtube.com/watch?v=mV1h1e83O20
 
